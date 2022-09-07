@@ -1,2 +1,1 @@
-# cherry-blossoms
-Progressive Web Applications (PWA) Challenge: Budget Tracker
+# Budget Tracker Starter Code
